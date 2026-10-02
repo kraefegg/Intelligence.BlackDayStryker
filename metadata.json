@@ -1,0 +1,6 @@
+{
+  "name": "BLACKDAY STRYKER | Private Intelligence & Security",
+  "description": "Private Intelligence, Security & Critical Affairs consultancy. Intelligence without noise. Strategic risk advisory and crisis management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
